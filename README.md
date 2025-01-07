@@ -1,6 +1,5 @@
 For our third project, we decided to take a look at the attendance rates for kids between the school years k-12 by their school district
-and summarized as a whole state. Our goal was to see if there were any interesting trends with the students in Connecticut as well as how some external factors 
-come into play when looking at the attendance for students. 
+and we also included the summarized data as a whole state. Our goal was to see if there were any interesting trends with the students in Connecticut and their attendance rates as well as how some external factors come into play when looking at the attendance for students. 
 
 How to use/interact with project(STILL NEED TO FINISH)
 
