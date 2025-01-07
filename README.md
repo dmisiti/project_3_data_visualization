@@ -6,6 +6,7 @@ When it came time to use a database, we chose to use PostgresSQL as our database
 with this we are able to hold a base dataset of data in postgres and then we are able to make changes/clean anything we need to in jupyter notebooks so that the datasets were
 ready to use for our visuals. The Postgres SQL database was good because if we ever messed up, we could get go back and pull our base database from Postgres and start over again. 
 
+Being ethical with data is something that is being brought up a lot in the news and is very important in terms of protect people's information. In our project, we made sure to be very ethical with the data that we are presenting. We looked through each of the datasets that we had to make sure that there was no private information in them such as Date of birth or student's full names. We intend to use the data that we have to paint a broad picture of different students groups from each district and compare them to one another. None of what we are trying to do is to display or even analyze sensitive information espically if they don't want it out there. We have made sure of this and believe that our dataset achieves this. 
 
 
 
