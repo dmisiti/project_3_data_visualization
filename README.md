@@ -13,7 +13,8 @@ Being ethical with data is something that is being brought up a lot in the news 
 
 
 References: 
-Data sources-
+
+Data sources:
 1. Dataset that had the location for each school district:
 Education Directory | Connecticut Data, data.ct.gov/Education/Education-Directory/9k2y-kqxn/data. Accessed 7 Jan. 2025.
 
