@@ -3,6 +3,7 @@ and we also included the summarized data as a whole state. Our goal was to see i
 
 How to use/interact with project(STILL NEED TO FINISH)
 
+
 When it came time to use a database, we chose to use PostgresSQL as our database of choice. We thought that using Postgres SQL to hold all of our data was a good idea because
 with this we are able to hold a base dataset of data in postgres and then we are able to make changes/clean anything we need to in jupyter notebooks so that the datasets were
 ready to use for our visuals. The Postgres SQL database was good because if we ever messed up, we could get go back and pull our base database from Postgres and start over again. 
@@ -18,4 +19,21 @@ Data sources:
 Education Directory | Connecticut Data, data.ct.gov/Education/Education-Directory/9k2y-kqxn/data. Accessed 7 Jan. 2025.
 
 2. Dataset for attendance rates by district: 
-“State of Connecticut - School Attendance by Student Group and District, 2021-2022.” Catalog, Publisher data.ct.gov, 19 Aug. 2023, catalog.data.gov/dataset/school-attendance-by-student-group-and-district-2021-2022. 
+“State of Connecticut - School Attendance by Student Group and District, 2021-2022.” Catalog, Publisher data.ct.gov, 19 Aug. 2023, catalog.data.gov/dataset/school-attendance-by-student-group-and-district-2021-2022.
+
+3. Data for the Cartographic Boundary for the state of connecitcut - US Census Bureau. (2024, April 15). Cartographic boundary files. Census.gov. https://www.census.gov/geographies/mapping-files/time-series/geo/cartographic-boundary.html
+
+4. Documents for how to use Geopandas and converting
+'Merging data — GeoPandas 1.0.1+0.g747d66e.dirty documentation. (n.d.). https://geopandas.org/en/stable/docs/user_guide/mergingdata.html'
+
+6. Documents on how to use layers in pydeck library for a geopandas dataset
+Layer Overview and Examples — pydeck 0.9.1 documentation. (n.d.). https://deckgl.readthedocs.io/en/latest/layer.html
+
+7. research documents/codes for making a 3D map for a geopandas dataFrame 
+https://medium.com/@leodpereda/create-a-beautiful-3d-map-with-pydeck-geopandas-and-pandas-8cd1d73e1ec3
+
+8. 3D plotting — Python Numerical Methods. (n.d.). https://pythonnumericalmethods.studentorg.berkeley.edu/notebooks/chapter12.02-3D-Plotting.html
+
+9. Interactive Mapping using geoPandas
+https://geopandas.org/en/stable/docs/user_guide/interactive_mapping.html#
+
