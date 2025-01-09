@@ -33,7 +33,7 @@ Note: Students with high needs are defined in this study as students who: are En
 Additionally, this dataset provides locations and coordinates for schools within each school district, and was eventually merged with the primary dataset to match with Connecticut district names. One school was selected from each district to be used for representative coordinates for each district.
 
 ## MetaData
-Our metadata is located in our images folder under the name metadata.jpeg.
+Our metadata is located in our images folder under the name metadata.png.
 
 ## Project Inspiration & Initial Design
 
