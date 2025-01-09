@@ -37,11 +37,17 @@ Our metadata is located in our images folder under the name metadata.jpeg.
 
 ## Project Inspiration & Initial Design
 
-Data Visualization #1 – Mapping attendance rates by school district and displaying a pop up on each with attendance statistics
+Data Visualization #1 – Mapping attendance rates by school district and displaying a pop up on each with attendance statistics.
 
-Data Visualization #2 – Bar graph displaying attendance rates by student category compared to the average attendance rate for a student in America
+A picture of this is located in the folder images as Data Visualization #1. For future considerations, we could make a 3-d map for this. This is shown as Data Visualization #3 which is in the folder images
+
+Data Visualization #2 – Bar graph displaying attendance rates by student category compared to the average attendance rate for a student in America.
+
+A picture of this is located in the folder images as Data Visualization #2
 
 Data Visualization #3 – Line graph showing changes in attendance rates over the three years of data collection in Connecticut, with a reference line on the graph showing when the covid pandemic began.
+
+A picture of this is located in the folder images as Data Visualization #4.
 
 ## Ethical Considerations
 
