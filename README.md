@@ -1,7 +1,7 @@
 For our third project, we decided to take a look at the attendance rates for kids between the school years k-12 by their school district
 and we also included the summarized data as a whole state. Our goal was to see if there were any interesting trends with the students in Connecticut and their attendance rates as well as how some external factors come into play when looking at the attendance for students. 
 
-How to use/interact with project(STILL NEED TO FINISH)
+To interact with our projects, we have two interactive dashboards that are run through our code. The first code file is ____ which shows a dashboard of a bar graph and a line graph. These graphs both show data using our dataset and there are three different topics to choose from where the graphs are both linked and changed depending on the topic. 
 
 
 When it came time to use a database, we chose to use PostgresSQL as our database of choice. We thought that using Postgres SQL to hold all of our data was a good idea because
